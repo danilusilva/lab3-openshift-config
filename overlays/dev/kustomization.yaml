@@ -5,4 +5,4 @@ resources:
 images:
   - name: agenda-app
     newName: image-registry.openshift-image-registry.svc:5000/danilusilva-dev/agenda
-    newTag: v1
+    newTag: v2
