@@ -5,7 +5,7 @@ resources:
 images:
   - name: agenda-app
     newName: image-registry.openshift-image-registry.svc:5000/danilusilva-dev/agenda
-    newTag: v2
+    newTag: v1
 replicas:
   - name: agenda-web
     count: 3
